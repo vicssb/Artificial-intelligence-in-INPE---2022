@@ -1,6 +1,6 @@
 # <a href="https://github.com/vicssb/AI/readme.md"> <img src="./IMG/LogoUK.png" alt="Logo UK" width="50"/> Artificial-intelligence </a>
 
-# <a href="https://github.com/vicssb/AI/leiame.md"> <img src="./IMG/Brazil-orb.png" alt="Logo Brasil" width="30"/> Inteligência Artificial </a>
+# <a href="https://github.com/vicssb/AI/blob/master/leiame.md"> <img src="./IMG/Brazil-orb.png" alt="Logo Brasil" width="30"/> Inteligência Artificial </a>
 
 Artificial intelligence in INPE - 2022
 
