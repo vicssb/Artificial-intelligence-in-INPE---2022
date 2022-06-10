@@ -1,7 +1,7 @@
-# Artificial-intelligence
+# <a href="https://github.com/vicssb/Artificial-intelligence/blob/main/readme.md"> <img src="./IMG/LogoUK.png" alt="Logo UK" width="50"/> Artificial-intelligence </a>
 Artificial intelligence in INPE - 2022
 
-![Logo of the project](ia.jpg) <img src="inpe.jpg" alt="Logo INPE" width="300"/> <img src="amazonia.jpg" alt="amazonia" width="180"/>
+![Logo of the project](./IMG/ia.jpg) <img src="./IMG/inpe.jpg" alt="Logo INPE" width="300"/> <img src="./IMG/amazonia.jpg" alt="amazonia" width="180"/>
  
 ## Análise de dados estatísticos dos satelites Sentinel 1 e 2 para classificação de cobertura e uso do solo na regiao Amazônica
  
@@ -18,9 +18,9 @@ Este trabalho visa a análise exploratória de atributos estatísticos
 dos satélites Sentinel-1 e Sentinel-2 a fim de analisar a possibilidade de classificação do uso e cobertura da Terra, em uma região especifica, através de uma Rede Neural Artificial (RNA), utilizando dados da coleção 6 do MapBiomas como parâmetro de referencia o que possibilitaria o monitoramento das mudanças em um período de tempo mais curto
  
  
-## Technology 
+## Tecnologia 
  
-Here are the technologies used in this project.
+Aqui estão as tecnologias usadas neste projeto
  
 * Python com as seguintes bibliotecas:
     - import os                                                # PARA COMANDOS DO SISTEMA
@@ -52,50 +52,55 @@ Here are the technologies used in this project.
 
  
  
-## Services Used
+## Serviços usados
  
 * Google Colab Notebook
  
  
-## Getting started
+## Como usar
  
-* To install gems:
->    $ bundle install
-* To create the bank and do as migrations:
->    $ rake db:create db:migrate db:seed
-* To run the project:
->    $ rails s
+Abra o Google Colab Notebooks: https://colab.research.google.com/notebooks/
+
  
-## How to use
+## Resultados
  
-Here will be the images and descriptions. Principal content.
+<img src="./IMG/dados2.jpeg" alt="Dada" width="500"/>
+ <img src="./IMG/plt1.png" alt="plot" width="500"/>
  
  
-## Features
- 
-  - Here will be the features.
+## Conclusão
+
+Considerando a distribuição do conjunto de dados após 
+as correções, uma diferença elevada entre as classes ainda
+permanece, o que indica a necessidade de obtenção de mais
+amostras das classes em menor quantidade, esse desbalanceamento pode prejudicar, por exemplo a separação das classes.
+Nossa conclusao é que os dados disponibilizados apresentam correlação com 
+o objeto de estudo e podem ser utilizados para classificação, 
+porem a baixa quantidade de determinadas amostras pode vir 
+a prejudicar a acuracia do classificador.
  
  
 ## Links
  
-  - Link of deployed application: (if has been deployed)
-  - Repository: https://link_of_repository
-    - In case of sensitive bugs like security vulnerabilities, please contact
-      YOUR EMAIL directly instead of using issue tracker. We value your effort
-      to improve the security and privacy of this project!
+  - Paper: https://github.com/vicssb/Artificial-intelligence/blob/main/Analise%20de%20dados%20estatisticos%20dos%20satelites%20Sentinel%201%20e%202%20para%20classificac%C2%B8ao%20de%20cobertura%20e%20uso%20do%20solo%20na%20Amazonia.pdf
+  
+  - Repositório: https://github.com/vicssb/Artificial-intelligence.git
+    - Em caso de bugs sensíveis, como vulnerabilidades de segurança, entre em contato
+      diretamente em vez de usar o rastreador de problemas. Valorizamos o seu esforço
+      para melhorar a segurança e privacidade deste projeto!
  
  
-## Versioning
+## Versão
  
 1.0.0.0
  
  
-## Authors
+## Autores
  
 * **Luís Nascimento, Rogerio Batista e Victor Barros**: 
 
 - @vicssb (https://github.com/vicssb)
 - {luis.esnascimento, rogbatista, vicssb}@gmail.com
  
-Please follow github and join us!
-Thanks to visiting me and good coding!
+Por favor, siga o github e junte-se a nós!
+Obrigado por me visitar e boa codificação!
