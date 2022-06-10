@@ -1,4 +1,4 @@
-# <a href="https://github.com/vicssb/Artificial-intelligence/blob/main/readme.md"> <img src="./IMG/LogoUK.png" alt="Logo UK" width="50"/> Artificial-intelligence </a>
+# <a href="https://github.com/vicssb/IA/readme.md"> <img src="./IMG/LogoUK.png" alt="Logo UK" width="50"/> Artificial-intelligence </a>
 Artificial intelligence in INPE - 2022
 
 ![Logo of the project](./IMG/ia.jpg) <img src="./IMG/inpe.jpg" alt="Logo INPE" width="300"/> <img src="./IMG/amazonia.jpg" alt="amazonia" width="180"/>
@@ -82,7 +82,7 @@ a prejudicar a acuracia do classificador.
  
 ## Links
  
-  - Paper: https://github.com/vicssb/Artificial-intelligence/blob/main/Analise%20de%20dados%20estatisticos%20dos%20satelites%20Sentinel%201%20e%202%20para%20classificac%C2%B8ao%20de%20cobertura%20e%20uso%20do%20solo%20na%20Amazonia.pdf
+  - Paper: https://github.com/vicssb/AI/blob/master/Analise%20de%20dados%20estatisticos%20dos%20satelites%20Sentinel%201%20.pdf
   
   - Repositório: https://github.com/vicssb/Artificial-intelligence.git
     - Em caso de bugs sensíveis, como vulnerabilidades de segurança, entre em contato
