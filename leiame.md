@@ -1,4 +1,4 @@
-# <a href="https://github.com/vicssb/IA/readme.md"> <img src="./IMG/LogoUK.png" alt="Logo UK" width="50"/> Artificial-intelligence </a>
+# <a href="https://github.com/vicssb/AI/blob/master/readme.md"> <img src="./IMG/LogoUK.png" alt="Logo UK" width="50"/> Artificial-intelligence </a>
 Artificial intelligence in INPE - 2022
 
 ![Logo of the project](./IMG/ia.jpg) <img src="./IMG/inpe.jpg" alt="Logo INPE" width="300"/> <img src="./IMG/amazonia.jpg" alt="amazonia" width="180"/>
