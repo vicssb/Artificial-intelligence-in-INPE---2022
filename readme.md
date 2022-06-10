@@ -1,6 +1,6 @@
-# <a href="https://github.com/vicssb/IA/readme.md"> <img src="./IMG/LogoUK.png" alt="Logo UK" width="50"/> Artificial-intelligence </a>
+# <a href="https://github.com/vicssb/AI/readme.md"> <img src="./IMG/LogoUK.png" alt="Logo UK" width="50"/> Artificial-intelligence </a>
 
-# <a href="https://github.com/vicssb/IA/leiame.md"> <img src="./IMG/Brazil-orb.png" alt="Logo Brasil" width="30"/> Inteligência Artificial </a>
+# <a href="https://github.com/vicssb/AI/leiame.md"> <img src="./IMG/Brazil-orb.png" alt="Logo Brasil" width="30"/> Inteligência Artificial </a>
 
 Artificial intelligence in INPE - 2022
 
@@ -64,7 +64,7 @@ Open Google Colab Notebooks: https://colab.research.google.com/notebooks/
  
   - Paper: https://github.com/vicssb/AI/blob/master/Analise%20de%20dados%20estatisticos%20dos%20satelites%20Sentinel%201%20.pdf
   
-  - Repository: https://github.com/vicssb/IA.git
+  - Repository: https://github.com/vicssb/AI.git
     - In case of sensitive bugs like security vulnerabilities, please contact
       YOUR EMAIL directly instead of using issue tracker. We value your effort
       to improve the security and privacy of this project!
