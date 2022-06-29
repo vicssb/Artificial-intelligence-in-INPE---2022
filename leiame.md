@@ -1,5 +1,5 @@
 <div align="right"> 
-<a href="./readme.md"> <img src="./img/LogoUK.png" alt="Logo UK" width="30"/></a><a href="./leiame.md"> <img src="./img/logoBrazil.png" alt="Logo Brasil" width="30"/> </a>
+<a href="./readme.md"> <img src="./IMG/LogoUK.png" alt="Logo UK" width="30"/></a><a href="./leiame.md"> <img src="./IMG/logoBrazil.png" alt="Logo Brasil" width="30"/> </a>
 </div>
 <H1>Inteligência Artificial</H1>
 
