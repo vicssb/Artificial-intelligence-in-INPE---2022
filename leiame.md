@@ -86,9 +86,9 @@ a prejudicar a acuracia do classificador.
  
 ## Links
  
-  - Paper: https://github.com/vicssb/AI/blob/master/Analise%20de%20dados%20estatisticos%20dos%20satelites%20Sentinel%201%20.pdf
+  - Paper: https://github.com/vicssb/Artificial-intelligence-in-INPE---2022/blob/master/Analise%20de%20dados%20estatisticos%20dos%20satelites%20Sentinel%201%20.pdf
   
-  - Repositório: https://github.com/vicssb/Artificial-intelligence.git
+  - Repositório: https://github.com/vicssb/Artificial-intelligence-in-INPE---2022
     - Em caso de bugs sensíveis, como vulnerabilidades de segurança, entre em contato
       diretamente em vez de usar o rastreador de problemas. Valorizamos o seu esforço
       para melhorar a segurança e privacidade deste projeto!
