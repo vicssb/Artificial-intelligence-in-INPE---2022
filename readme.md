@@ -1,6 +1,7 @@
-# <a href="https://github.com/vicssb/AI/readme.md"> <img src="./IMG/LogoUK.png" alt="Logo UK" width="50"/> Artificial-intelligence </a>
-
-# <a href="https://github.com/vicssb/AI/blob/master/leiame.md"> <img src="./IMG/Brazil-orb.png" alt="Logo Brasil" width="30"/> Inteligência Artificial </a>
+<div align="right"> 
+<a href="./readme.md"> <img src="./img/LogoUK.png" alt="Logo UK" width="30"/></a><a href="./leiame.md"> <img src="./img/logoBrazil.png" alt="Logo Brasil" width="30"/> </a>
+</div>
+<H1>Artificial-intelligence </H1>
 
 Artificial intelligence in INPE - 2022
 
@@ -79,8 +80,19 @@ Open Google Colab Notebooks: https://colab.research.google.com/notebooks/
  
 * **Luís Nascimento, Rogerio Batista e Victor Barros**: 
 
-- @vicssb (https://github.com/vicssb)
 - {luis.esnascimento, rogbatista, vicssb}@gmail.com
  
-Please follow github and join us!
-Thanks to visiting me and good coding!
+<p align="left">
+  <a href="mailto:vicssb@gmail.com" alt="Gmail" target = "_blank">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:vicssb@gmail.com" /></a>
+
+  <a href="https://www.linkedin.com/in/victor-sergio-silva-barros/" alt="Linkedin" target = "_blank">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-sergio-silva-barros/" /></a>
+
+  <a href="https://wa.me/+5512987085327" alt="WhatsApp" target = "_blank">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/+5512987085327"/></a>
+
+  </p>  
+
+<p>Please follow github and join us!
+Thanks for visiting and happy coding!</p>
