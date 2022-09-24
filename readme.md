@@ -63,7 +63,7 @@ Open Google Colab Notebooks: https://colab.research.google.com/notebooks/
  
 ## Links
  
-  - Paper: https://github.com/vicssb/Artificial-intelligence-in-INPE---2022/blob/master/Analise%20de%20dados%20estatisticos%20dos%20satelites%20Sentinel%201%20.pdf
+  - Article: https://github.com/vicssb/Artificial-intelligence-in-INPE---2022/blob/master/Analise%20de%20dados%20estatisticos%20dos%20satelites%20Sentinel%201%20.pdf
   
   - Repository: https://github.com/vicssb/Artificial-intelligence-in-INPE---2022
     - In case of sensitive bugs like security vulnerabilities, please contact
